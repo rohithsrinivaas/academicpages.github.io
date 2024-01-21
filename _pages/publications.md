@@ -13,7 +13,6 @@ author_profile: true
 
 Machine-Learning-Based Prediction of Corrosion Behavior in Additively Manufactured Inconel 718
 DeepGRASS: Graph, Sequence and Scaled Embeddings on large scale transactions data
-
 Size- and shape-dependent phase diagram of Ga-Sb nanoparticles
 
 
