@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="link.com" target="_blank" rel="noopener noreferrer">Full CV</a>
+## [Full CV](../files/RohithSrinivaasMohanakrishnan_CV.pdf)
 
 {% include base_path %}
 
